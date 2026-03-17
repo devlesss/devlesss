@@ -1,6 +1,9 @@
 # 안녕하세요 👋
 
-다음과 같은 분야를 중심으로 실험하고 개발한 내용들을 공유하고 있습니다.
+AI 시스템을 탐구하며 만든 실험, 아이디어, 프로토타입들을
+공유하고 있습니다.
+
+## 🌱 공유
 
 * LLM Agent 시스템
 * Retrieval-Augmented Generation (RAG)
@@ -17,7 +20,6 @@ LangChain · vLLM · HuggingFace · Ollama · pgvector
 * Knowledge Graph RAG
 * Agent Tool Router
 
-## 🌱 공유
 
-AI 시스템을 탐구하며 만든 실험, 아이디어, 프로토타입들을
-다른 개발자들에게 도움이 될 수 있도록 공유하고 있습니다.
+
+
