@@ -1,16 +1,23 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**devlesss/devlesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+다음과 같은 분야를 중심으로 실험하고 개발한 내용들을 공유하고 있습니다.
 
-Here are some ideas to get you started:
+* LLM Agent 시스템
+* Retrieval-Augmented Generation (RAG)
+* Knowledge Graph 기반 AI
+* AI 자동화 시스템
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 기술 스택
+
+LangChain · vLLM · HuggingFace · Ollama · pgvector
+
+## 🚀 프로젝트
+
+* Enterprise RAG Platform
+* Knowledge Graph RAG
+* Agent Tool Router
+
+## 🌱 공유
+
+AI 시스템을 탐구하며 만든 실험, 아이디어, 프로토타입들을
+다른 개발자들에게 도움이 될 수 있도록 공유하고 있습니다.
